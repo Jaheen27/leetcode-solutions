@@ -55,6 +55,5 @@
 
 <sub>🤖 Auto-synced by <strong>LeetSync</strong> Chrome Extension</sub>
 
-<sub>Built with ❤️ by <a href="https://deveshsamant.in/">Devesh Samant</a></sub>
 
 </div>
