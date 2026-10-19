@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 3 / 76 (3.9%)
+- **Completed:** 4 / 76 (5.3%)
 
 ---
 
@@ -12,7 +12,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 ### 📂 Arrays & Matrix
 - [ ] Set Matrix Zeroes
 - [ ] Pascal's Triangle
-- [ ] Next Permutation
+- [x] [Next Permutation](./C/Medium/31. Next Permutation/)
 - [ ] Maximum Subarray
 - [ ] Sort Colors
 - [ ] Best Time to Buy and Sell Stock
